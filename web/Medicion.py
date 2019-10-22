@@ -31,4 +31,4 @@ def guardarMedicion():
     return(listarMediciones())
     
 
-app.run(port=8080, debug=True)
+#app.run(port=8080, debug=True)
